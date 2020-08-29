@@ -1,0 +1,5 @@
+name: NBT Serializer
+version: ${project.version}
+main: me.straggly.nbtserializer.NBTSerializer
+api-version: 1.16
+authors: [ straggly ]
